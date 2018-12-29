@@ -1,0 +1,20 @@
+%!TEX ROOT=../../Diplomka.tex
+
+\chapter{Úvod}
+Epilepsie je neurologické onemocnění, vyskytující se přibližně u 1 \% obyvatel. Projevuje se výskytem epileptických záchvatů. V České republice je registrováno přibližně 80 000 epileptiků, z nichž cca 20~000 nedostatečně reaguje na léčbu antiepileptiky \cite{58, 57}. Záchvaty se mohou projevovat různě, např. dočasnou lehkou ztrátou kognitivních funkcí, halucinacemi, svalovými záškuby až po ztrátu vědomí s křečemi. Náhlý záchvat spojený se ztrátou vědomí je nebezpečný nejen pro jedince samotného, ale i pro jeho okolí. Proto epileptičtí pacienti nemohou např. vykonávat práce ve výškách, práce u~rotačních strojů nebo řídit. Další omezení plynou také z režimových opatření, která jsou součástí prevence epilepsie. Pacient musí dodržovat pravidelný spánkový režim a~nemůže tedy pracovat v třísměnném provozu (práce v noci), musí dlouhodobě užívat antiepileptika a nesmí požívat alkohol. Potřebná preventivní opatření tak snižují kvalitu života pacientů.
+
+V případech těžkých farmakorezistentních epilepsií je zvažována léčba chirurgická, ta má potenciál zbavit pacienta záchvatů navždy. Operace bude úspěšná za předpokladu, že dokážeme přesně definovat zdrojovou oblast epileptiformní aktivity v pacientově mozku a tu následně odstranit bez poškození dalších funkcí mozku.
+Jednou z neinvazivních možností, jak určit zdrojovou oblast epilepsie v mozku pacienta, je aplikace tzv. inverzní úlohy. Jedná se o proces, který odhaduje zdroj aktivity na základě naměřeného EEG (nebo MEG) a modelu pacientovy hlavy. 
+
+V této diplomové práci se budu zabývat problematikou inverzních úloh a~jejich následnou aplikací. 
+
+\section{Motivace}
+Přesná lokalizace epileptogenní zóny je klíčová pro úspěšnost chirurgické léčby epilepsie. Její nedokonalé odstranění může vést k recidivě záchvatů. S~nástupem tomografických metod (MRI a CT) spolu s funkčními vyšetřeními (PET, fMRI) se zlepšuje i přesnost lokalizace epileptogenní zóny. Některé druhy epilepsie jsou však diagnostikovatelné pouze z elektrofyziologických projevů mozku měřitelných elektro- nebo magneto-encefalografií. Pro velmi přesné prostorové i časové rozlišení se využívá invazivního EEG, které s~sebou však nese všechna rizika spojená s operací mozku (infekce, nitrolební krvácení, otoky). Standardní EEG je, oproti invazivnímu, nerizikové a aplikací inverzních úloh jsme schopni lokalizovat epileptogenní zónu i z něho. Teorie inverzních úloh je v klinické praxi málo rozšířená, a to i přes svůj nesporný potenciál. Z tohoto důvodu se zabývám teorií a aplikací inverzních úloh ve své diplomové práci. Snažím se vytvořit jednoduchý nástroj pro výpočet inverzního problému, který by umožnil rozšíření této nerizikové metody do klinické praxe. Z rozšíření inverzních úloh mohou profitovat nejen doktoři, ale především pacienti.
+
+
+\section{Cíle a požadavky práce}
+V teoretické části se budu zabývat epilepsií samotnou, problematikou pořízení EEG signálů, možnostmi definování přímé úlohy a modelu pacientovy hlavy, existujícími algoritmy inverzních úloh a správností jejich výsledků. Porovnám také správnost výsledků různých algoritmů inverzních úloh, dostupných v~SPM12 toolboxu.
+
+Ve spolupráci s Neurologickou klinikou a Klinikou dětské neurologie v~nemocnici Motol, s Ing. Petrem Ježdíkem, Ph.D. a s Ing. Radkem Jančou, Ph.D. se snažím navrhnout metody pro jednoduchou aplikaci inverzní úlohy na naměřená EEG data. Metody umožňují aplikovat potřebné procedury předzpracování signálů. Převádějí data do souborů, které jsou kompatibilní s~SPM12 toolboxem, instruují SPM12 toolbox při definici přímé úlohy a~aplikaci inverzní úlohy a následně umožňují vizualizaci výsledků buď v modelu pacientova mozku, nebo přímo v MRI snímcích.
+
+Vytvořené nástroje použiji v poslední části ke zpracování případů vybraných pacientů, výsledky porovnám s klinickým hodnocením.

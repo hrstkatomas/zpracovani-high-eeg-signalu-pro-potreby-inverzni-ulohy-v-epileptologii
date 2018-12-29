@@ -1,0 +1,57 @@
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {english}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {english}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Epileptologick\IeC {\'e} z\IeC {\'o}ny\relax }}{5}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces P\IeC {\v r}esnost v\IeC {\'y}sledku inverzn\IeC {\'\i } \IeC {\'u}lohy v z\IeC {\'a}vislosti na po\IeC {\v c}tu kan\IeC {\'a}l\IeC {\r u} EEG z\IeC {\'a}znamu \cite {72}\relax }}{10}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Vliv nerovnom\IeC {\v e}rn\IeC {\'e}ho rozm\IeC {\'\i }st\IeC {\v e}n\IeC {\'\i } elektrod na pacientov\IeC {\v e} skalpu \cite {73}\relax }}{10}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces 3-Shell Sphere a BEM modely hlavy\relax }}{13}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Pozice bod\IeC {\r u} fiducials\relax }}{15}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Homunkulus\relax }}{21}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Zn\IeC {\'a}zorn\IeC {\v e}n\IeC {\'\i } odezvy na stimul nervus medianus\relax }}{21}{figure.2.7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Charakteristiky notch filtr\IeC {\r u} 50 Hz\relax }}{24}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Frekven\IeC {\v c}n\IeC {\'\i } spektra re\IeC {\'a}ln\IeC {\'e}ho EEG sign\IeC {\'a}lu p\IeC {\v r}ed a po aplikaci filtrace notch filtrem\relax }}{25}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Frekven\IeC {\v c}n\IeC {\'\i } charakteristika doln\IeC {\'\i } propusti o mezn\IeC {\'\i } frekvenci 0,5 Hz navr\IeC {\v z}en\IeC {\'a} funkc\IeC {\'\i } fir1\relax }}{26}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Proces odstran\IeC {\v e}n\IeC {\'\i } izolinie z dat\relax }}{27}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Potenci\IeC {\'a}lov\IeC {\'a} mapa skalpu pacienta, elektrody na skalpu pacienta\relax }}{28}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Dv\IeC {\v e} r\IeC {\r u}zn\IeC {\'a} nato\IeC {\v c}en\IeC {\'\i } v\IeC {\'y}stupn\IeC {\'\i }ho grafu funkce plotHead\relax }}{29}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Model vypo\IeC {\v c}ten\IeC {\'y} z MRI sn\IeC {\'\i }mk\IeC {\r u} pacientovy hlavy\relax }}{33}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces V\IeC {\'y}sledek koregistrace\relax }}{33}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces P\IeC {\v r}\IeC {\'\i }klad v\IeC {\'y}sledku inverzn\IeC {\'\i } \IeC {\'u}lohy, v\IeC {\'y}sledky vykresleny do sklen\IeC {\v e}n\IeC {\'e}ho mozku a do modelu mozku\relax }}{34}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces P\IeC {\v r}\IeC {\'\i }klad v\IeC {\'y}sledku inverzn\IeC {\'\i } \IeC {\'u}lohy vykreslen\IeC {\'e}ho do MRI sn\IeC {\'\i }mku pacienta\relax }}{34}{figure.3.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces V\IeC {\'y}sledky lokalizace zdroje v lev\IeC {\'e} hemisf\IeC {\'e}\IeC {\v r}e\relax }}{40}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces V\IeC {\'y}sledky lokalizace zdroje v prav\IeC {\'e} hemisf\IeC {\'e}\IeC {\v r}e\relax }}{40}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces V\IeC {\'y}sledky lokalizace zdroje v prav\IeC {\'e} i lev\IeC {\'e} hemisf\IeC {\'e}\IeC {\v r}e, p\IeC {\v r}i SNR 10 dB\relax }}{41}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces V\IeC {\'y}sledky lokalizace zdroje v prav\IeC {\'e} i lev\IeC {\'e} hemisf\IeC {\'e}\IeC {\v r}e, p\IeC {\v r}i SNR 0 dB\relax }}{41}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces V\IeC {\'y}sledky lokalizace zdroje v prav\IeC {\'e} i lev\IeC {\'e} hemisf\IeC {\'e}\IeC {\v r}e, p\IeC {\v r}i SNR -10 dB\relax }}{42}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces V\IeC {\'y}sledek inverzn\IeC {\'\i } \IeC {\'u}lohy evokovan\IeC {\'y}ch potenci\IeC {\'a}l\IeC {\r u} pacienta P99\relax }}{44}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces V\IeC {\'y}sledek inverzn\IeC {\'\i } \IeC {\'u}lohy evokovan\IeC {\'y}ch potenci\IeC {\'a}l\IeC {\r u} pacienta P109\relax }}{44}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces V\IeC {\'y}sledek inverzn\IeC {\'\i } \IeC {\'u}lohy evokovan\IeC {\'y}ch potenci\IeC {\'a}l\IeC {\r u} pacienta P110\relax }}{45}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces V\IeC {\'y}sledek inverzn\IeC {\'\i } \IeC {\'u}lohy evokovan\IeC {\'y}ch potenci\IeC {\'a}l\IeC {\r u} pacienta P113\relax }}{47}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces V\IeC {\'y}sledek inverzn\IeC {\'\i } \IeC {\'u}lohy evokovan\IeC {\'y}ch potenci\IeC {\'a}l\IeC {\r u} pacienta P114\relax }}{47}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Pr\IeC {\r u}m\IeC {\v e}r z komplex\IeC {\r u} hrot-vlna pacienta P81\relax }}{48}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Anal\IeC {\'y}za prostoru elektrod\relax }}{49}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces V\IeC {\'y}sledek inverzn\IeC {\'\i } \IeC {\'u}lohy epileptick\IeC {\'e}ho pacienta P81, 1. cluster\relax }}{50}{figure.4.13}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces V\IeC {\'y}sledek inverzn\IeC {\'\i } \IeC {\'u}lohy epileptick\IeC {\'e}ho pacienta P81, 2. cluster\relax }}{51}{figure.4.14}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces V\IeC {\'y}sledek inverzn\IeC {\'\i } \IeC {\'u}lohy epileptick\IeC {\'e}ho pacienta P81, 3. cluster\relax }}{52}{figure.4.15}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

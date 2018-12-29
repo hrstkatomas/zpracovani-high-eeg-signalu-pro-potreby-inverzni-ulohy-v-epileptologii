@@ -1,0 +1,65 @@
+\BOOKMARK [0][-]{chapter.1}{\332vod}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Motivace}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{C\355le a po\236adavky pr\341ce}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Teoretick\341 c\341st}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Epilepsie}{chapter.2}% 5
+\BOOKMARK [2][-]{subsection.2.1.1}{Terapie}{section.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.1.2}{Epileptologick\351 z\363ny}{section.2.1}% 7
+\BOOKMARK [3][-]{subsubsection.2.1.2.1}{Symptomatogenn\355 z\363na}{subsection.2.1.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.1.2.2}{Iritacn\355 z\363na}{subsection.2.1.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.1.2.3}{Z\363na poc\341tku z\341chvatu}{subsection.2.1.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.1.2.4}{Epileptogenn\355 struktur\341ln\355 l\351ze}{subsection.2.1.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.1.2.5}{Z\363na funkcn\355ho deficitu}{subsection.2.1.2}% 12
+\BOOKMARK [3][-]{subsubsection.2.1.2.6}{Epileptogenn\355 z\363na}{subsection.2.1.2}% 13
+\BOOKMARK [3][-]{subsubsection.2.1.2.7}{Elokventn\355 z\363na}{subsection.2.1.2}% 14
+\BOOKMARK [1][-]{section.2.2}{Elektrofyziologick\341 aktivita mozku}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.2.1}{Magnetoencefalografie}{section.2.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.2}{Elektroencefalografie}{section.2.2}% 17
+\BOOKMARK [3][-]{subsubsection.2.2.2.1}{Zpracov\341n\355 EEG sign\341lu}{subsection.2.2.2}% 18
+\BOOKMARK [3][-]{subsubsection.2.2.2.2}{Artefakty}{subsection.2.2.2}% 19
+\BOOKMARK [3][-]{subsubsection.2.2.2.3}{Volba um\355sten\355 a poctu elektrod}{subsection.2.2.2}% 20
+\BOOKMARK [3][-]{subsubsection.2.2.2.4}{Volba reference}{subsection.2.2.2}% 21
+\BOOKMARK [3][-]{subsubsection.2.2.2.5}{Mo\236n\351 chyby meren\355}{subsection.2.2.2}% 22
+\BOOKMARK [1][-]{section.2.3}{Zdrojov\341 anal\375za}{chapter.2}% 23
+\BOOKMARK [2][-]{subsection.2.3.1}{Pr\355m\341 \372loha}{section.2.3}% 24
+\BOOKMARK [3][-]{subsubsection.2.3.1.1}{Meren\355 pozic elektrod}{subsection.2.3.1}% 25
+\BOOKMARK [3][-]{subsubsection.2.3.1.2}{Koregistrace}{subsection.2.3.1}% 26
+\BOOKMARK [2][-]{subsection.2.3.2}{Inverzn\355 \372loha}{section.2.3}% 27
+\BOOKMARK [3][-]{subsubsection.2.3.2.1}{Volba inverzn\355 \372lohy}{subsection.2.3.2}% 28
+\BOOKMARK [3][-]{subsubsection.2.3.2.2}{Hodnocen\355 v\375sledku inverzn\355 \372lohy}{subsection.2.3.2}% 29
+\BOOKMARK [1][-]{section.2.4}{Somatosenzorick\351 evokovan\351 potenci\341ly}{chapter.2}% 30
+\BOOKMARK [0][-]{chapter.3}{Implementace}{}% 31
+\BOOKMARK [1][-]{section.3.1}{SPM Motol toolbox}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.1.1}{Instalace}{section.3.1}% 33
+\BOOKMARK [1][-]{section.3.2}{Predzpracov\341n\355 dat}{chapter.3}% 34
+\BOOKMARK [2][-]{subsection.3.2.1}{Notch filtr}{section.3.2}% 35
+\BOOKMARK [2][-]{subsection.3.2.2}{Odstranen\355 izolinie}{section.3.2}% 36
+\BOOKMARK [2][-]{subsection.3.2.3}{Oprava zesilovacu}{section.3.2}% 37
+\BOOKMARK [1][-]{section.3.3}{Pomocn\351 funkce}{chapter.3}% 38
+\BOOKMARK [1][-]{section.3.4}{Inverzn\355 \372loha}{chapter.3}% 39
+\BOOKMARK [2][-]{subsection.3.4.1}{Soubory, potrebn\351 pro v\375pocet inverzn\355 \372lohy}{section.3.4}% 40
+\BOOKMARK [2][-]{subsection.3.4.2}{Nacten\355 EEG dat}{section.3.4}% 41
+\BOOKMARK [2][-]{subsection.3.4.3}{Selekce ud\341lost\355}{section.3.4}% 42
+\BOOKMARK [2][-]{subsection.3.4.4}{Tvorba souboru kompatibiln\355ho s SPM12}{section.3.4}% 43
+\BOOKMARK [2][-]{subsection.3.4.5}{Selekce oken a prumerov\341n\355}{section.3.4}% 44
+\BOOKMARK [2][-]{subsection.3.4.6}{V\375pocet inverzn\355 \372lohy}{section.3.4}% 45
+\BOOKMARK [3][-]{subsubsection.3.4.6.1}{3D Source Reconstruction}{subsection.3.4.6}% 46
+\BOOKMARK [3][-]{subsubsection.3.4.6.2}{Batch editor}{subsection.3.4.6}% 47
+\BOOKMARK [3][-]{subsubsection.3.4.6.3}{Obaluj\355c\355 funkce }{subsection.3.4.6}% 48
+\BOOKMARK [0][-]{chapter.4}{Aplikace inverzn\355ch \372loh}{}% 49
+\BOOKMARK [1][-]{section.4.1}{Porovn\341n\355 metod inverze SPM12}{chapter.4}% 50
+\BOOKMARK [2][-]{subsection.4.1.1}{Generov\341n\355 syntetick\375ch dat}{section.4.1}% 51
+\BOOKMARK [2][-]{subsection.4.1.2}{Shrnut\355 v\375sledku}{section.4.1}% 52
+\BOOKMARK [1][-]{section.4.2}{Aplikace inverzn\355ch \372loh na re\341ln\341 data}{chapter.4}% 53
+\BOOKMARK [2][-]{subsection.4.2.1}{Meren\355 re\341ln\375ch dat}{section.4.2}% 54
+\BOOKMARK [2][-]{subsection.4.2.2}{Lokalizace zdroje SEP}{section.4.2}% 55
+\BOOKMARK [3][-]{subsubsection.4.2.2.1}{V\375sledky}{subsection.4.2.2}% 56
+\BOOKMARK [2][-]{subsection.4.2.3}{Lokalizace zdroje epileptick\351 aktivity pacienta P81}{section.4.2}% 57
+\BOOKMARK [3][-]{subsubsection.4.2.3.1}{Tvorba dat}{subsection.4.2.3}% 58
+\BOOKMARK [3][-]{subsubsection.4.2.3.2}{V\375sledky}{subsection.4.2.3}% 59
+\BOOKMARK [0][-]{chapter.5}{Z\341ver}{}% 60
+\BOOKMARK [-1][-]{part*.25}{Pr\355lohy}{}% 61
+\BOOKMARK [0][-]{appendix.A}{Literatura}{part*.25}% 62
+\BOOKMARK [0][-]{appendix.B}{Seznam pou\236it\375ch zkratek}{part*.25}% 63
+\BOOKMARK [0][-]{appendix.C}{Struktura prilo\236en\351ho CD}{part*.25}% 64
+\BOOKMARK [0][-]{section*.26}{Zad\341n\355 pr\341ce}{part*.25}% 65

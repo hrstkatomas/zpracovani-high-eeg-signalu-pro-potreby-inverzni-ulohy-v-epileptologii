@@ -1,0 +1,251 @@
+% arara: pdflatex: { synctex: yes }
+% arara: makeindex: { style: ctuthesis }
+% arara: bibtex
+
+% The class takes all the key=value arguments that \ctusetup does,
+% and a couple more: draft and oneside
+\documentclass[twoside]{casti/sablona/ctuthesis}
+
+\ctusetup{
+	preprint = \ctuverlog,
+%	mainlanguage = english,
+%	titlelanguage = czech,
+	mainlanguage = czech,
+	otherlanguages = {slovak,english},
+	title-czech = {Zpracování High Density EEG signálů pro potřeby inverzní úlohy v epileptologii},
+	title-english = {High Density EEG signal processing in inverse problem of epileptology},
+	subtitle-czech = {},
+	subtitle-english = {},
+	doctype = M,
+	faculty = F3,
+	department-czech = {Katedra teorie obvodů},
+	department-english = {Department of Circuit Theory},
+	author = {Bc. Tomáš Hrstka},
+	supervisor = {Ing. Radek Janča, Ph.D.},
+%	supervisor-address = {Ústav X, \\ Uliční 5, \\ Praha 99},
+%	supervisor-specialist = {John Doe},
+%	fieldofstudy-english = {Mathematical Engineering},
+%	subfieldofstudy-english = {Mathematical Modelling},
+	fieldofstudy-czech = {Biomedicínské inženýrství},
+	subfieldofstudy-czech = {Biomedicínské inženýrství a informatika},
+	keywords-czech = {EEG, zdrojová lokalizace, inverzní úloha, zpracování signálů},
+	keywords-english = {EEG, source localization, inverse problem, signal preprocessing},
+	day = 27,
+	month = 5,
+	year = 2016,
+	specification-file = {./casti/zadani/zadani.pdf},
+%	front-specification = true,
+%	front-list-of-figures = false,
+%	front-list-of-tables = false,
+%	monochrome = true,
+%	layout-short = true,
+}
+
+\ctuprocess
+
+\addto\ctucaptionsczech{%
+	\def\supervisorname{Vedoucí}%
+	\def\subfieldofstudyname{Studijní program}%
+}
+
+\ctutemplateset{maketitle twocolumn default}{
+	\begin{twocolumnfrontmatterpage}
+		\ctutemplate{twocolumn.thanks}
+		\ctutemplate{twocolumn.declaration}
+		\ctutemplate{twocolumn.abstract.in.titlelanguage}
+		\ctutemplate{twocolumn.abstract.in.secondlanguage}
+		\ctutemplate{twocolumn.tableofcontents}
+		\ctutemplate{twocolumn.listoffigures}
+	\end{twocolumnfrontmatterpage}
+}
+
+% Theorem declarations, this is the reasonable default, anybody can do what they wish.
+% If you prefer theorems in italics rather than slanted, use \theoremstyle{plainit}
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{conjecture}[theorem]{Conjecture}
+
+\theoremstyle{note}
+\newtheorem*{remark*}{Remark}
+\newtheorem{remark}[theorem]{Remark}
+
+% Abstract in Czech
+\begin{abstract-czech}
+Elektroencefalografie je důležitým nástrojem ke studiu záznamů elektrické aktivity mozku. Většina aplikací EEG však nevytěží ze záznamu všechny informace, zejména polohu zdroje aktivity v mozku. Nalezení ložisek mozkové aktivity lze dosáhnout výpočtem takzvaných inverzních úloh. Tyto metody je možné využít například k lokalizaci epileptogenní zóny, která je zodpovědná za vyvolávání spontánních záchvatů epileptických pacientů. Chirurgické odstranění epileptogenní zóny je jedním z možných způsobů léčby epilepsie. Tato léčba může pomoci pacientům s farmakorezistentní formou epilepsie, u které nezabírá léčba antiepileptiky.
+
+Tato práce se zabývá problematikou algoritmů inverzních úloh, konkrétně podmínkami pro záznam elektroencefalogramů a měření pozic elektrod na skalpu, přímými úlohami, dostupnými modely hlavy a mozku, vybranými algoritmy inverzní úlohy a interpretací jejich výsledků. Získané znalosti jsou použity při potřebných úpravách high density EEG záznamu a při následné aplikaci algoritmů inverzních úloh SPM12 toolboxu v prostředí MATLAB. Práce porovnává správnost výsledků jednotlivých algoritmů inverzních úloh, řešených nad uměle vygenerovanými daty, u kterých je známá pozice zdroje pozorovaných EEG signálů. V poslední fázi jsou získané poznatky využity v praxi. Algoritmy jsou použity k nalezení zdrojů mozkové aktivity u reálných pacientů. Jsou vyhodnocena ložiska somatosenzorických evokovaných potenciálů (SEP), ale i ložiska zdrojů epileptické aktivity. Data byla naměřena na pacientech oddělení neurologických klinik nemocnice Motol pomocí high density systému o 256 elektrodách. 
+
+Zvolenou problematiku řeším pomocí vhodného předzpracování, redukce a průměrování dat. S využitím SPM12 toolboxu specifikuji přímou úlohu, založenou na modelu hlavy, který je odvozen z MRI snímků pacienta. Následně využívám algoritmů inverzních úloh MN (minimal norm), LORETA, MSP (multiple sparse priors) a EBB (empirical Bayes beamformer). Výsledky lokalizace je možné zobrazit do skleněného mozku, nebo přímo do MRI snímku. Je dokonce možné využít virtuální elektrody a zobrazit elektrickou aktivitu kdekoli v mozku.
+
+Ačkoli výsledky na testovacích subjektech potvrdily schopnosti metod nalézt konkrétní zdroje signálů, odhalily také možné limitace metod v případech přítomnosti neodstraněných artefaktů. Upozornily tak na potřebu správné interpretace výsledků u konkrétních pacientů.
+
+Naimplementované rozšíření SPM12, pojmenované SPM Motol toolbox, bude v~budoucnu pomáhat lékařům nemocnice Motol při detekci epileptogenních zón z~EEG záznamů.
+\end{abstract-czech}
+
+% Abstract in English
+\begin{abstract-english}
+Electrocardiography is an important tool for studying brain electrical activity recordings, however most of the applications fail to capitalize on all of the data’s available information, particularly the location of active sources in the brain. Localizing the activity sources within the brain can be only achieved by solving the so-called inverse problem. These methods can be used to localize the epileptogenous zone, which is responsible for inducing spontaneous seizures of the epileptic patients. Surgical removal of the epileptogenous zone is a treatment that can help patients with the pharmacoresistant form of epilepsy.
+
+This thesis deals with theory and problems of inverse task algorithms. In particular, it deals with the conditions for the electroencephalography recording and measurements of the positions of electrodes on the scalp, forward task, available forward models of the brain, selected algorithms of the inverse task and the interpretation of their results. Obtained knowledge is used during the preprocessing of high density EEG recordings, subsequently inverse task was calculated by using algorithms implemented in SPM12 toolbox. This thesis compares accuracy of the results of applied algorithms using artificially generated data, where the position of sources of EEG signals is known. In the last phase the acquired knowledge is used in practice, algorithms are used to find sources of brain activity in the real EEG recording of the epileptic patients. The activity sources are evaluated from somatosensory evoked potentials (SEPs) and epileptic EEG. Data were measured in Motol hospital using high density system with 256 electrodes.
+
+Selected issues are solved by appropriate preprocessing, data reduction and averaging. The forward problem is specified using SPM12 toolbox and is based on the brain model, which is derived from the MRI images of the patients. Inverse problem is calculated next, via MN (minimum norm), LORETA, MSP (multiple sparse priors) and EBB (empirical Bayes beamformer) algorithms.  The results of the localization can be displayed in glass brain or directly in MRI images of the patient’s head. It is also possible to use virtual electrode to display electrical activity anywhere in the brain.
+
+Although the results on the test subjects have confirmed the ability of methods to find the specific sources, they also revealed the limitations of these methods when artifacts are present. This indicated the need for proper interpretation of the results.
+
+SPM12 toolbox expansion, named SPM Motol toolbox, was implemented. This software will help doctors of the Motol hospital with the detection of epileptogenic zones from EEG recordings.
+
+
+\end{abstract-english}
+
+% Acknowledgements / Podekovani
+\begin{thanks}
+Chtěl bych poděkovat panu Ing. Radku Jančovi, Ph.D. a panu Ing. Petru Ježdíkovi, Ph.D. za spolupráci, pravidelné konzultace a odborné vedení práce, které napomohlo vzniku této diplomové práce. 
+
+Poděkování patří též pracovníkům nemocnice Motol za spolupráci při získávání dat. 
+
+Děkuji i celé své rodině za podporu během studia na ČVUT.
+\end{thanks}
+
+% Declaration / Prohlaseni
+\begin{declaration}
+Prohlašuji, že jsem předloženou práci vypracoval samostatně a že jsem uvedl veškeré použité informační zdroje v souladu s Metodickým pokynem o dodržování etických principů při přípravě vysokoškolských závěrečných prací.
+
+V Praze, \ctufield{day}.~\monthinlanguage{title}~\ctufield{year}
+
+\vskip 0.4in
+...............................
+
+podpis autora práce
+\end{declaration}
+
+% Only for testing purposes
+\listfiles
+\usepackage[pagewise]{lineno}
+\usepackage{lipsum,blindtext}
+\usepackage{mathrsfs} % provides \mathscr used in the ridiculous examples
+
+% Moje upravy
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+\usepackage{amsmath}
+\usepackage{forest}
+
+\begin{document}
+\maketitle
+
+
+
+\input{casti/uvod/uvod}
+
+\input{casti/teorie/teorie}
+
+\input{casti/implementace/implementace}
+
+\input{casti/aplikace/aplikace}
+
+\input{casti/zaver/zaver}
+
+
+
+\appendix
+\printindex
+\appendix
+\bibliographystyle{plain}
+\bibliography{casti/citace/citace}
+
+\chapter{Seznam použitých zkratek}
+\begin{table}[!htb]
+\centering
+\caption{Seznam použitých zkratek}
+\label{my-label}
+\begin{tabular}{ll}
+AP & Akční potenciál \\
+CT & Počítačová tomografie \\
+EBB & Empirical Bayes beamformer \\
+EEG & Elektroencefalografie \\
+EKG & Elektrokardiografie \\
+EMG & Elektromyografie \\
+EOG & Elektrookulografie \\
+ERP & Event related potencial \\
+FEM & Metoda konečných prvků \\
+fMRI & Funkční MRI \\
+GS & Greedy search \\
+LORETA &  Laplacian weighted minimum norm algorithm \\
+M/EEG & Magnetoencefalografie a elektroencefalografie \\
+MEG & Magnetoencefalografie \\
+MN & Minimum norm \\
+MRI & Magnetická rezonance \\
+MSP & Multiple sparse priors \\
+NIfTI & Neuroimaging Informatics Technology Initiative file format \\
+PET & Pozitronová emisní tomografie \\
+PSP & Postsynaptický potenciál \\
+SEP & Somatosenzorické evokované potenciály \\
+SPECT & Jednofotonová emisní tomografie \\
+SPM & Statistical Parametric Mapping \\
+WMN & Weighted minimum norm
+\end{tabular}
+\end{table}
+
+\chapter{Struktura přiloženého CD}
+\begin{forest}
+  for tree={
+    grow'=0,
+    child anchor=west,
+    parent anchor=south,
+    anchor=west,
+    calign=first,
+    edge path={
+      \noexpand\path [draw, \forestoption{edge}]
+      (!u.south west) +(7.5pt,0) |- node[fill,inner sep=1.25pt] {} (.child anchor)\forestoption{edge label};
+    },
+    before typesetting nodes={
+      if n=1
+        {insert before={[,phantom]}}
+        {}
+    },
+    fit=band,
+    before computing xy={l=15pt},
+  }
+[
+  [SPM motol toolbox
+    [Examples
+		[Batches
+			[...]
+		]
+		[STARTepilepsy.m]
+		[STARTsep.m]
+		[Test\_zaznamu\_spektrum.m]
+		[Testovani\_zaznamu.m]
+		[Vykresleni\_pozic\_elektrod.m]
+    ]
+    [MRIcron
+		[mricron
+			[...]
+		]
+		[Readme.txt]
+	]
+    [SPM Motol
+			[spm12motol
+				[MotolFunctions
+					[...]
+				]
+				[...]
+			]
+			[Readme.txt]
+			[SPM12Motol\_Installer.m]	
+		]
+  ]
+  [Hrstka - DP - 2016.pdf]
+]
+\end{forest}
+
+\ctutemplate{specification.as.chapter}
+
+\end{document}

@@ -1,0 +1,454 @@
+\begin{thebibliography}{10}
+
+\bibitem{2}
+Zden{\v{e}}k Ambler.
+\newblock Z{\'a}klady neurologie. 7. vyd. praha: Gal{\'e}n, 2011. 351 s.
+\newblock Technical report, ISBN 978-80-7262-707-3, 2011.
+
+\bibitem{6}
+Christopher~T Anderson, Chad~E Carlson, Zhimin Li, and Manoj Raghavan.
+\newblock Magnetoencephalography in the preoperative evaluation for epilepsy
+  surgery.
+\newblock {\em Current neurology and neuroscience reports}, 14(5):1--8, 2014.
+
+\bibitem{28}
+John Ashburner and Barnes Gareth.
+\newblock Spm12 manual [online].
+\newblock \url{http://www.fil.ion.ucl.ac.uk/spm/doc/manual.pdf}, 2016 [cit.
+  2016-03-02].
+
+\bibitem{49}
+Gareth~R Barnes and Arjan Hillebrand.
+\newblock Statistical flattening of meg beamformer images.
+\newblock {\em Human brain mapping}, 18(1):1--12, 2003.
+
+\bibitem{34}
+CG~Benar and J~Gotman.
+\newblock Non-uniform spatial sampling in eeg source analysis.
+\newblock Technical report, DTIC Document, 2001.
+
+\bibitem{59}
+Paul Boon, Michel D'Have, Gert Van~Hoey, Bart Vanrumste, Kristl Vonck, Claude
+  Adam, and Tom Vandekerckhove.
+\newblock Interictal and ictal source localization in neocortical versus medial
+  temporal lobe epilepsy.
+\newblock {\em Advances in neurology}, 84:365--375, 2000.
+
+\bibitem{58}
+Milan Br{\'a}zdil, Jan Hada{\v{c}}, Petr Marusi{\v{c}}, et~al.
+\newblock {\em Farmakorezistentn{\'\i} epilepsie}.
+\newblock Triton, 2011.
+
+\bibitem{30}
+Roberto Cabeza and Lars Nyberg.
+\newblock Imaging cognition ii: An empirical review of 275 pet and fmri
+  studies.
+\newblock {\em Journal of cognitive neuroscience}, 12(1):1--47, 2000.
+
+\bibitem{69}
+Cambridge:~MRC Cognition and Brain~Sciences Unit.
+\newblock The mni brain and the talairach atlas. mrc cbsu wiki [online].
+\newblock \url{http://imaging.mrc-cbu.cam.ac.uk/imaging/MniTalairach}, 2013
+  [cit. 2016-05-13].
+
+\bibitem{7}
+David Cohen.
+\newblock Magnetoencephalography: evidence of magnetic fields produced by
+  alpha-rhythm currents.
+\newblock {\em Science}, 161(3843):784--786, 1968.
+
+\bibitem{8}
+David Cohen.
+\newblock Magnetoencephalography: detection of the brain's electrical activity
+  with a superconducting magnetometer.
+\newblock {\em Science}, 175(4022):664--666, 1972.
+
+\bibitem{16}
+Arnaud Delorme, Terrence Sejnowski, and Scott Makeig.
+\newblock Enhanced detection of artifacts in eeg data using higher-order
+  statistics and independent component analysis.
+\newblock {\em Neuroimage}, 34(4):1443--1449, 2007.
+
+\bibitem{57}
+Jan Du{\v{s}}ek.
+\newblock Specializovan{\`y} informa{\v{c}}n{\'\i} syst{\'e}m pro evidenci
+  pacientů za{\v{r}}azen{\`y}ch do epilepto-chirurgick{\'e}ho
+  programu-redesign, reimplementace a optimalizace.
+\newblock 2014.
+
+\bibitem{60}
+John~S Ebersole.
+\newblock Noninvasive localization of epileptogenic foci by eeg source
+  modeling.
+\newblock {\em Epilepsia}, 41(s3):S24--S33, 2000.
+
+\bibitem{40}
+DH~Fender.
+\newblock Source localization of brain electrical activity.
+\newblock {\em Handbook of electroencephalography and clinical
+  neurophysiology}, 1:355--99, 1987.
+
+\bibitem{1}
+Robert~S Fisher, Walter van~Emde Boas, Warren Blume, Christian Elger, Pierre
+  Genton, Phillip Lee, and Jerome Engel.
+\newblock Epileptic seizures and epilepsy: definitions proposed by the
+  international league against epilepsy (ilae) and the international bureau for
+  epilepsy (ibe).
+\newblock {\em Epilepsia}, 46(4):470--472, 2005.
+
+\bibitem{71}
+San Francisco (CA):~Wikimedia Foundation.
+\newblock Epilepsie: Druhy epileptických záchvatů. in:wikipedia: the free
+  encyclopedia [online].
+\newblock \url{https://cs.wikipedia.org/wiki/Epilepsie}, 2016 [cit.
+  2016-05-15].
+
+\bibitem{52}
+Karl Friston, Lee Harrison, Jean Daunizeau, Stefan Kiebel, Christophe Phillips,
+  Nelson Trujillo-Barreto, Richard Henson, Guillaume Flandin, and
+  J{\'e}r{\'e}mie Mattout.
+\newblock Multiple sparse priors for the m/eeg inverse problem.
+\newblock {\em NeuroImage}, 39(3):1104--1120, 2008.
+
+\bibitem{51}
+Karl Friston, Richard Henson, Christophe Phillips, and J{\'e}r{\'e}mie Mattout.
+\newblock Bayesian estimation of evoked and induced responses.
+\newblock {\em Human brain mapping}, 27(9):722--735, 2006.
+
+\bibitem{47}
+M~Fuchs, HA~Wischmann, and M~Wagner.
+\newblock Generalized minimum norm least squares reconstruction algorithms.
+\newblock {\em ISBET newsletter}, 5:8--1, 1994.
+
+\bibitem{56}
+Manfred Fuchs, J{\"o}rn Kastner, Michael Wagner, Susan Hawes, and John~S
+  Ebersole.
+\newblock A standardized boundary element method volume conductor model.
+\newblock {\em Clinical Neurophysiology}, 113(5):702--712, 2002.
+
+\bibitem{26}
+S~Gabriel, RW~Lau, and Camelia Gabriel.
+\newblock The dielectric properties of biological tissues: Ii. measurements in
+  the frequency range 10 hz to 20 ghz.
+\newblock {\em Physics in medicine and biology}, 41(11):2251, 1996.
+
+\bibitem{38}
+David~B Geselowitz.
+\newblock The zero of potential.
+\newblock {\em IEEE engineering in medicine and biology magazine: the quarterly
+  magazine of the Engineering in Medicine \& Biology Society}, 17(1):128--132,
+  1997.
+
+\bibitem{45}
+Irina~F Gorodnitsky, John~S George, and Bhaskar~D Rao.
+\newblock Neuromagnetic source imaging with focuss: a recursive weighted
+  minimum norm algorithm.
+\newblock {\em Electroencephalography and clinical Neurophysiology},
+  95(4):231--251, 1995.
+
+\bibitem{20}
+Roberta Grech, Tracey Cassar, Joseph Muscat, Kenneth~P Camilleri, Simon~G
+  Fabri, Michalis Zervakis, Petros Xanthopoulos, Vangelis Sakkalis, and Bart
+  Vanrumste.
+\newblock Review on solving the inverse problem in eeg source analysis.
+\newblock {\em Journal of neuroengineering and rehabilitation}, 5(1):1, 2008.
+
+\bibitem{44}
+RE~Greenblatt.
+\newblock Probabilistic reconstruction of multiple sources in the
+  bioelectromagnetic inverse problem.
+\newblock {\em Inverse problems}, 9(2):271, 1993.
+
+\bibitem{19}
+Hans Hallez, Bart Vanrumste, Roberta Grech, Joseph Muscat, Wim De~Clercq,
+  Anneleen Vergult, Yves D'Asseler, Kenneth~P Camilleri, Simon~G Fabri, Sabine
+  Van~Huffel, et~al.
+\newblock Review on solving the forward problem in eeg source analysis.
+\newblock {\em Journal of neuroengineering and rehabilitation}, 4(1):1, 2007.
+
+\bibitem{5}
+Matti H{\"a}m{\"a}l{\"a}inen, Riitta Hari, Risto~J Ilmoniemi, Jukka Knuutila,
+  and Olli~V Lounasmaa.
+\newblock Magnetoencephalography—theory, instrumentation, and applications to
+  noninvasive studies of the working human brain.
+\newblock {\em Reviews of modern Physics}, 65(2):413, 1993.
+
+\bibitem{43}
+Matti~S H{\"a}m{\"a}l{\"a}inen and Risto~J Ilmoniemi.
+\newblock Interpreting magnetic fields of the brain: minimum norm estimates.
+\newblock {\em Medical \& biological engineering \& computing}, 32(1):35--42,
+  1994.
+
+\bibitem{9}
+Peter Hansen, Morten Kringelbach, and Riitta Salmelin.
+\newblock {\em MEG: an introduction to methods}.
+\newblock Oxford university press, 2010.
+
+\bibitem{24}
+Rik Henson.
+\newblock M/eeg source analysis. [přednáška].
+\newblock \url{https://www.ucl.ac.uk/stream/media/swatch?v=36f153fd11b6}, 11.
+  5. 2015.
+
+\bibitem{21}
+R~Hoekema, GH~Wieneke, FSS Leijten, CWM Van~Veelen, PC~Van~Rijen, GJM Huiskamp,
+  J~Ansems, and AC~Van~Huffelen.
+\newblock Measurement of the conductivity of skull, temporarily removed during
+  epilepsy surgery.
+\newblock {\em Brain topography}, 16(1):29--38, 2003.
+
+\bibitem{65}
+Ivo Hrazdira and Vojt{\v{e}}ch Mornstein.
+\newblock {\em L{\'e}ka{\v{r}}sk{\'a} biofyzika a p{\v{r}}{\'\i}strojov{\'a}
+  technika}.
+\newblock Neptun, 2001.
+
+\bibitem{62}
+Hans-J{\"u}rgen Huppertz, Eberhard Hof, Joachim Klisch, Mirko Wagner,
+  Carl~Hermann L{\"u}cking, and Rumyana Kristeva-Feige.
+\newblock Localization of interictal delta and epileptiform eeg activity
+  associated with focal epileptogenic brain lesions.
+\newblock {\em Neuroimage}, 13(1):15--28, 2001.
+
+\bibitem{75}
+R~Janca, Petr Jezdik, Roman Cmejla, Pavel Krsek, JGR Jefferys, Petr Marusic,
+  and Premysl Jiruska.
+\newblock Automatic detection and spatial clustering of interictal discharges
+  in invasive recordings.
+\newblock In {\em Medical Measurements and Applications Proceedings (MeMeA),
+  2013 IEEE International Symposium on}, pages 219--223. IEEE, 2013.
+
+\bibitem{70}
+Radek Janca, Petr Jezdik, Roman Cmejla, Martin Tomasek, Gregory~A Worrell, Matt
+  Stead, Joost Wagenaar, John~GR Jefferys, Pavel Krsek, Vladimir Komarek,
+  et~al.
+\newblock Detection of interictal epileptiform discharges using signal envelope
+  distribution modelling: application to epileptic and non-epileptic
+  intracranial recordings.
+\newblock {\em Brain topography}, 28(1):172--183, 2015.
+
+\bibitem{14}
+Varun Joshi, Ram~Bilas Pachori, and Antony Vijesh.
+\newblock Classification of ictal and seizure-free eeg signals using fractional
+  linear prediction.
+\newblock {\em Biomedical Signal Processing and Control}, 9:1--5, 2014.
+
+\bibitem{68}
+Adam Kalina.
+\newblock Interpretace výsledků evokovaných potenciálů [elektronická
+  zpráva], 15. 4. 2016 1:57; [cit. 2016-5-12].
+
+\bibitem{67}
+Adam Kalina.
+\newblock Inverzní úloha: Eeg záznam [elektronická zpráva], 6. 5. 2016
+  10:21; [cit. 2016-5-12].
+
+\bibitem{42}
+Stefan~J Kiebel, Jean Daunizeau, Christophe Phillips, and Karl~J Friston.
+\newblock Variational bayesian inversion of the equivalent current dipole model
+  in eeg/meg.
+\newblock {\em NeuroImage}, 39(2):728--741, 2008.
+
+\bibitem{54}
+Katsuhiro Kobayashi, Harumi Yoshinaga, Makio Oka, Yoko Ohtsuka, and Jean
+  Gotman.
+\newblock A simulation study of the error in dipole source localization for eeg
+  spikes with a realistic head model.
+\newblock {\em Clinical neurophysiology}, 114(6):1069--1078, 2003.
+
+\bibitem{41}
+Antti Korvenoja, Juha Huttunen, Eero Salli, Hanna Pohjonen, Sami Martinkauppi,
+  Jaakko~M Palva, Leena Lauronen, Juha Virtanen, Hannu~J Aronen, et~al.
+\newblock Activation of multiple cortical areas in response to somatosensory
+  stimulation: combined magnetoencephalographic and functional magnetic
+  resonance imaging.
+\newblock {\em Human brain mapping}, 8(1):13--27, 1999.
+
+\bibitem{66}
+Ji{\v{r}}{\'\i} Kozumpl{\'i}k.
+\newblock Anal{\`y}za biologick{\`y}ch sign{\'a}lů.
+\newblock {\em Elektronick{\'a} skripta FEKT VUT v Brn{\v{e}}}, 2011.
+
+\bibitem{33}
+G~Lantz, R~Grave de~Peralta, L~Spinelli, M~Seeck, and CM~Michel.
+\newblock Epileptic source localization with high density eeg: how many
+  electrodes are needed?
+\newblock {\em Clinical neurophysiology}, 114(1):63--69, 2003.
+
+\bibitem{72}
+G~Lantz, R~Grave de~Peralta, L~Spinelli, M~Seeck, and CM~Michel.
+\newblock Epileptic source localization with high density eeg: how many
+  electrodes are needed? [obrázek].
+\newblock {\em Clinical neurophysiology}, 114(1):63--69, 2003.
+
+\bibitem{17}
+P~LeVan, E~Urrestarazu, and J~Gotman.
+\newblock A system for automatic artifact removal in ictal scalp eeg based on
+  independent component analysis and bayesian classification.
+\newblock {\em Clinical Neurophysiology}, 117(4):912--927, 2006.
+
+\bibitem{35}
+Vladimir Litvak, J{\'e}r{\'e}mie Mattout, Stefan Kiebel, Christophe Phillips,
+  Richard Henson, James Kilner, Gareth Barnes, Robert Oostenveld, Jean
+  Daunizeau, Guillaume Flandin, et~al.
+\newblock Eeg and meg data analysis in spm8.
+\newblock {\em Computational intelligence and neuroscience}, 2011, 2011.
+
+\bibitem{74}
+JD~Lopez, Vladimir Litvak, JJ~Espinosa, K~Friston, and Gareth~R Barnes.
+\newblock Algorithmic procedures for bayesian meg/eeg source reconstruction in
+  spm.
+\newblock {\em NeuroImage}, 84:476--487, 2014.
+
+\bibitem{27}
+Lubomir Manola, BH~Roelofsen, Jan Holsheimer, E~Marani, and Jan Geelen.
+\newblock Modelling motor cortex stimulation for chronic pain control:
+  electrical potential field, activating functions and responses of simple
+  nerve fibre models.
+\newblock {\em Medical and biological engineering and computing},
+  43(3):335--343, 2005.
+
+\bibitem{25}
+Chris Mathys.
+\newblock Bayesian inference. [přednáška], 5. 2011.
+
+\bibitem{29}
+Christoph~M Michel, Micah~M Murray, G{\"o}ran Lantz, Sara Gonzalez, Laurent
+  Spinelli, and Rolando~Grave de~Peralta.
+\newblock Eeg source imaging.
+\newblock {\em Clinical neurophysiology}, 115(10):2195--2222, 2004.
+
+\bibitem{73}
+Christoph~M Michel, Micah~M Murray, G{\"o}ran Lantz, Sara Gonzalez, Laurent
+  Spinelli, and Rolando~Grave de~Peralta.
+\newblock Eeg source imaging [obrázek].
+\newblock {\em Clinical neurophysiology}, 115(10):2195--2222, 2004.
+
+\bibitem{13}
+Shayan Motamedi-Fakhr, Mohamed Moshrefi-Torbati, Martyn Hill, Catherine~M Hill,
+  and Paul~R White.
+\newblock Signal processing techniques applied to human sleep eeg signals—a
+  review.
+\newblock {\em Biomedical Signal Processing and Control}, 10:21--33, 2014.
+
+\bibitem{36}
+Ekaterina Pataraia, Christoph Baumgartner, Gerald Lindinger, and L{\"u}der
+  Deecke.
+\newblock Magnetoencephalography in presurgical epilepsy evaluation.
+\newblock {\em Neurosurgical review}, 25(3):141--159, 2002.
+
+\bibitem{46}
+De~Peralta-Menendez, Rolando Grave, and Sara~L Gonzalez-Andino.
+\newblock A critical analysis of linear inverse solutions to the
+  neuroelectromagnetic inverse problem.
+\newblock {\em Biomedical Engineering, IEEE Transactions on}, 45(4):440--448,
+  1998.
+
+\bibitem{63}
+Xinbo Qian, Yong~Ping Xu, and Xiaoping Li.
+\newblock A cmos continuous-time low-pass notch filter for eeg systems.
+\newblock {\em Analog Integrated Circuits and Signal Processing},
+  44(3):231--238, 2005.
+
+\bibitem{12}
+Ira~J Rampil.
+\newblock A primer for eeg signal processing in anesthesia.
+\newblock {\em The Journal of the American Society of Anesthesiologists},
+  89(4):980--1002, 1998.
+
+\bibitem{18}
+Sergio Romero, Miguel~A Ma{\~n}anas, and Manel~J Barbanoj.
+\newblock A comparative study of automatic techniques for ocular artifact
+  reduction in spontaneous eeg signals based on clinical target variables: a
+  simulation case.
+\newblock {\em Computers in biology and medicine}, 38(3):348--360, 2008.
+
+\bibitem{4}
+Felix Rosenow and Hans L{\"u}ders.
+\newblock Presurgical evaluation of epilepsy.
+\newblock {\em Brain}, 124(9):1683--1700, 2001.
+
+\bibitem{10}
+Saeid Sanei and Jonathon~A Chambers.
+\newblock {\em EEG signal processing}.
+\newblock John Wiley \& Sons, 2013.
+
+\bibitem{64}
+Pavel Sovka.
+\newblock Přednáška 1-2: Základy číslicové filtrace, příklady filtrů.
+  [přednáška], 9. 2014.
+
+\bibitem{32}
+A~Robert Spitzer, Leonardo~G Cohen, Judy Fabrikant, and Mark Hallett.
+\newblock A method for determining optimal interelectrode spacing for cerebral
+  topographic mapping.
+\newblock {\em Electroencephalography and clinical Neurophysiology},
+  72(4):355--361, 1989.
+
+\bibitem{31}
+Ramesh Srinivasan, Paul~L Nunez, Don~M Tucker, Richard~B Silberstein, and
+  Peter~J Cadusch.
+\newblock Spatial sampling and filtering of eeg with spline laplacians to
+  estimate cortical potentials.
+\newblock {\em Brain topography}, 8(4):355--366, 1996.
+
+\bibitem{11}
+Abdulhamit Subasi and M~Ismail Gursoy.
+\newblock Eeg signal classification using pca, ica, lda and support vector
+  machines.
+\newblock {\em Expert Systems with Applications}, 37(12):8659--8666, 2010.
+
+\bibitem{22}
+FieldTrip toolbox.
+\newblock What is the conductivity of the brain, csf, skull and skin tissue?
+  [online].
+\newblock
+  \url{http://www.fieldtriptoolbox.org/faq/what_is_the_conductivity_of_the_brain_csf_skull_and_skin_tissue},
+  2015 [cit. 2016-04-13].
+
+\bibitem{39}
+Gert Van~Hoey, Jeremy De~Clercq, Bart Vanrumste, Rik Van~de Walle, Ignace
+  Lemahieu, Michel D'Hav{\'e}, and Paul Boon.
+\newblock Eeg dipole source localization using artificial neural networks.
+\newblock {\em Physics in medicine and biology}, 45(4):997, 2000.
+
+\bibitem{50}
+Barry~D Van~Veen, Wim Van~Drongelen, Moshe Yuchtman, and Akifumi Suzuki.
+\newblock Localization of brain electrical activity via linearly constrained
+  minimum variance spatial filtering.
+\newblock {\em Biomedical Engineering, IEEE Transactions on}, 44(9):867--880,
+  1997.
+
+\bibitem{15}
+R~Romo V{\'a}zquez, Hugo Velez-Perez, Radu Ranta, V~Louis Dorr, Didier Maquin,
+  and Louis Maillard.
+\newblock Blind source separation, wavelet denoising and discriminant analysis
+  for eeg artefacts and noise cancelling.
+\newblock {\em Biomedical Signal Processing and Control}, 7(4):389--400, 2012.
+
+\bibitem{23}
+Kevin Whittingstall, Gerhard Stroink, Larry Gates, JF~Connolly, and Allen
+  Finley.
+\newblock Effects of dipole position, orientation and noise on the accuracy of
+  eeg source localization.
+\newblock {\em Biomedical engineering online}, 2(1):14, 2003.
+
+\bibitem{37}
+Samuel~J Williamson, Zhong-Lin L{\"u}, Daniel Karron, and Lloyd Kaufman.
+\newblock Advantages and limitations of magnetic source imaging.
+\newblock {\em Brain topography}, 4(2):169--180, 1991.
+
+\bibitem{3}
+Elaine Wyllie, Youssef~G Comair, Prakash Kotagal, Juan Bulacio, William
+  Bingaman, and Paul Ruggieri.
+\newblock Seizure outcome after epilepsy surgery in children and adolescents.
+\newblock {\em Annals of neurology}, 44(5):740--748, 1998.
+
+\bibitem{55}
+B~Yvert, O~Bertrand, JF~Echallier, and J~Pernier.
+\newblock Improved dipole localization using local mesh refinement of realistic
+  head geometries: an eeg simulation study.
+\newblock {\em Electroencephalography and clinical Neurophysiology},
+  99(1):79--89, 1996.
+
+\end{thebibliography}

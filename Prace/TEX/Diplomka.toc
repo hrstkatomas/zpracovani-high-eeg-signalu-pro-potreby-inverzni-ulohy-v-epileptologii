@@ -1,0 +1,106 @@
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\contentsline {paragraph}{Kl\'i\v cov\'a\ slova:}{iv}{paragraph*.1}
+\contentsline {paragraph}{Vedouc\IeC {\'\i }:}{iv}{paragraph*.2}
+\select@language {english}
+\contentsline {paragraph}{Keywords:}{v}{paragraph*.3}
+\contentsline {paragraph}{Title\ translation:}{v}{paragraph*.4}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {english}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\select@language {czech}
+\contentsline {chapter}{\numberline {1}\IeC {\'U}vod}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motivace}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}C\IeC {\'\i }le a po\IeC {\v z}adavky pr\IeC {\'a}ce}{2}{section.1.2}
+\contentsline {chapter}{\numberline {2}Teoretick\IeC {\'a} \IeC {\v c}\IeC {\'a}st}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Epilepsie}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Terapie}{4}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Epileptologick\IeC {\'e} z\IeC {\'o}ny}{5}{subsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.2.1}Symptomatogenn\IeC {\'\i } z\IeC {\'o}na}{5}{subsubsection.2.1.2.1}
+\contentsline {subsubsection}{\numberline {2.1.2.2}Irita\IeC {\v c}n\IeC {\'\i } z\IeC {\'o}na}{5}{subsubsection.2.1.2.2}
+\contentsline {subsubsection}{\numberline {2.1.2.3}Z\IeC {\'o}na po\IeC {\v c}\IeC {\'a}tku z\IeC {\'a}chvatu}{5}{subsubsection.2.1.2.3}
+\contentsline {subsubsection}{\numberline {2.1.2.4}Epileptogenn\IeC {\'\i } struktur\IeC {\'a}ln\IeC {\'\i } l\IeC {\'e}ze}{6}{subsubsection.2.1.2.4}
+\contentsline {subsubsection}{\numberline {2.1.2.5}Z\IeC {\'o}na funk\IeC {\v c}n\IeC {\'\i }ho deficitu}{6}{subsubsection.2.1.2.5}
+\contentsline {subsubsection}{\numberline {2.1.2.6}Epileptogenn\IeC {\'\i } z\IeC {\'o}na}{6}{subsubsection.2.1.2.6}
+\contentsline {subsubsection}{\numberline {2.1.2.7}Elokventn\IeC {\'\i } z\IeC {\'o}na}{6}{subsubsection.2.1.2.7}
+\contentsline {section}{\numberline {2.2}Elektrofyziologick\IeC {\'a} aktivita mozku}{6}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Magnetoencefalografie}{7}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Elektroencefalografie}{7}{subsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Zpracov\IeC {\'a}n\IeC {\'\i } EEG sign\IeC {\'a}lu}{8}{subsubsection.2.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2.2}Artefakty}{8}{subsubsection.2.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.3}Volba um\IeC {\'\i }st\IeC {\v e}n\IeC {\'\i } a po\IeC {\v c}tu elektrod}{9}{subsubsection.2.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.2.4}Volba reference}{11}{subsubsection.2.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.2.5}Mo\IeC {\v z}n\IeC {\'e} chyby m\IeC {\v e}\IeC {\v r}en\IeC {\'\i }}{11}{subsubsection.2.2.2.5}
+\contentsline {section}{\numberline {2.3}Zdrojov\IeC {\'a} anal\IeC {\'y}za}{11}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}P\IeC {\v r}\IeC {\'\i }m\IeC {\'a} \IeC {\'u}loha}{12}{subsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.1.1}M\IeC {\v e}\IeC {\v r}en\IeC {\'\i } pozic elektrod}{14}{subsubsection.2.3.1.1}
+\contentsline {subsubsection}{\numberline {2.3.1.2}Koregistrace}{14}{subsubsection.2.3.1.2}
+\contentsline {subsection}{\numberline {2.3.2}Inverzn\IeC {\'\i } \IeC {\'u}loha}{15}{subsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.2.1}Volba inverzn\IeC {\'\i } \IeC {\'u}lohy}{15}{subsubsection.2.3.2.1}
+\contentsline {paragraph}{P\IeC {\v r}eur\IeC {\v c}en\IeC {\'e} modely}{15}{paragraph*.5}
+\contentsline {paragraph}{Nedour\IeC {\v c}en\IeC {\'e} modely}{17}{paragraph*.6}
+\contentsline {paragraph}{Minimum norm - MN}{18}{paragraph*.7}
+\contentsline {paragraph}{Weighted minimum norm - WMN}{19}{paragraph*.8}
+\contentsline {paragraph}{Laplacian weighted minimum norm - LORETA}{19}{paragraph*.9}
+\contentsline {paragraph}{Multiple sparse priors \IeC {\textendash } MSP}{19}{paragraph*.10}
+\contentsline {paragraph}{Greedy search \IeC {\textendash } GS}{20}{paragraph*.11}
+\contentsline {paragraph}{Beamformer}{20}{paragraph*.12}
+\contentsline {subsubsection}{\numberline {2.3.2.2}Hodnocen\IeC {\'\i } v\IeC {\'y}sledk\IeC {\r u} inverzn\IeC {\'\i } \IeC {\'u}lohy}{20}{subsubsection.2.3.2.2}
+\contentsline {section}{\numberline {2.4}Somatosenzorick\IeC {\'e} evokovan\IeC {\'e} potenci\IeC {\'a}ly}{21}{section.2.4}
+\contentsline {chapter}{\numberline {3}Implementace}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}SPM Motol toolbox}{23}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Instalace}{23}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}P\IeC {\v r}edzpracov\IeC {\'a}n\IeC {\'\i } dat}{23}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Notch filtr}{23}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Odstran\IeC {\v e}n\IeC {\'\i } izolinie}{25}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Oprava zesilova\IeC {\v c}\IeC {\r u}}{27}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Pomocn\IeC {\'e} funkce}{28}{section.3.3}
+\contentsline {paragraph}{Vykreslen\IeC {\'\i } pozic elektrod}{28}{paragraph*.13}
+\contentsline {paragraph}{Spektrum sign\IeC {\'a}lu}{28}{paragraph*.14}
+\contentsline {section}{\numberline {3.4}Inverzn\IeC {\'\i } \IeC {\'u}loha}{28}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Soubory, pot\IeC {\v r}ebn\IeC {\'e} pro v\IeC {\'y}po\IeC {\v c}et inverzn\IeC {\'\i } \IeC {\'u}lohy}{29}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Na\IeC {\v c}ten\IeC {\'\i } EEG dat}{30}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Selekce ud\IeC {\'a}lost\IeC {\'\i }}{30}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Tvorba souboru kompatibiln\IeC {\'\i }ho s SPM12}{30}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Selekce oken a pr\IeC {\r u}m\IeC {\v e}rov\IeC {\'a}n\IeC {\'\i }}{31}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}V\IeC {\'y}po\IeC {\v c}et inverzn\IeC {\'\i } \IeC {\'u}lohy}{32}{subsection.3.4.6}
+\contentsline {subsubsection}{\numberline {3.4.6.1}3D Source Reconstruction}{32}{subsubsection.3.4.6.1}
+\contentsline {subsubsection}{\numberline {3.4.6.2}Batch editor}{35}{subsubsection.3.4.6.2}
+\contentsline {subsubsection}{\numberline {3.4.6.3}Obaluj\IeC {\'\i }c\IeC {\'\i } funkce }{35}{subsubsection.3.4.6.3}
+\contentsline {chapter}{\numberline {4}Aplikace inverzn\IeC {\'\i }ch \IeC {\'u}loh}{39}{chapter.4}
+\contentsline {section}{\numberline {4.1}Porovn\IeC {\'a}n\IeC {\'\i } metod inverze SPM12}{39}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Generov\IeC {\'a}n\IeC {\'\i } syntetick\IeC {\'y}ch dat}{39}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Shrnut\IeC {\'\i } v\IeC {\'y}sledk\IeC {\r u}}{40}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Aplikace inverzn\IeC {\'\i }ch \IeC {\'u}loh na re\IeC {\'a}ln\IeC {\'a} data}{42}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}M\IeC {\v e}\IeC {\v r}en\IeC {\'\i } re\IeC {\'a}ln\IeC {\'y}ch dat}{42}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Lokalizace zdroje SEP}{43}{subsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.2.1}V\IeC {\'y}sledky}{43}{subsubsection.4.2.2.1}
+\contentsline {paragraph}{Pacient P99}{43}{paragraph*.15}
+\contentsline {paragraph}{Pacient P109}{44}{paragraph*.16}
+\contentsline {paragraph}{Pacient P110}{45}{paragraph*.17}
+\contentsline {paragraph}{Pacient P113}{45}{paragraph*.18}
+\contentsline {paragraph}{Pacient P114}{45}{paragraph*.19}
+\contentsline {paragraph}{Shrnut\IeC {\'\i } v\IeC {\'y}sledk\IeC {\r u}}{45}{paragraph*.20}
+\contentsline {subsection}{\numberline {4.2.3}Lokalizace zdroje epileptick\IeC {\'e} aktivity pacienta P81}{48}{subsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.3.1}Tvorba dat}{48}{subsubsection.4.2.3.1}
+\contentsline {subsubsection}{\numberline {4.2.3.2}V\IeC {\'y}sledky}{50}{subsubsection.4.2.3.2}
+\contentsline {paragraph}{1. cluster}{50}{paragraph*.21}
+\contentsline {paragraph}{2. cluster}{50}{paragraph*.22}
+\contentsline {paragraph}{3. cluster}{50}{paragraph*.23}
+\contentsline {paragraph}{Shrnut\IeC {\'\i }}{51}{paragraph*.24}
+\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{53}{chapter.5}
+\contentsline {part}{P\v r\'ilohy}{55}{part*.25}
+\contentsline {chapter}{\numberline {A}Literatura}{57}{appendix.A}
+\contentsline {chapter}{\numberline {B}Seznam pou\IeC {\v z}it\IeC {\'y}ch zkratek}{65}{appendix.B}
+\contentsline {chapter}{\numberline {C}Struktura p\IeC {\v r}ilo\IeC {\v z}en\IeC {\'e}ho CD}{67}{appendix.C}
+\contentsline {chapter}{\numberline {D}Zad\'an\'i\ pr\'ace}{69}{section*.26}
